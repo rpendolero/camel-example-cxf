@@ -1,0 +1,9 @@
+com\mycompany\camel\cxf\code\first\spring\incident\OutputStatusIncident.class
+com\mycompany\camel\cxf\code\first\spring\incident\OutputReportIncident.class
+com\mycompany\camel\cxf\code\first\spring\incident\InputReportIncident.class
+com\mycompany\camel\cxf\code\first\spring\incident\StatusIncidentProcessor.class
+com\example\beans\EmployeeServiceResource.class
+com\mycompany\camel\cxf\code\first\spring\incident\IncidentService.class
+com\mycompany\camel\cxf\code\first\spring\incident\ReportIncidentProcessor.class
+com\mycompany\camel\cxf\code\first\spring\incident\InputStatusIncident.class
+com\example\beans\CamelProcessor.class
