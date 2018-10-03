@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1538555647512
+Build-Jdk: 1.8.0_172
+Built-By: roberto
+Bundle-ManifestVersion: 2
+Bundle-Name: camel-spring-cxfrs
+Bundle-SymbolicName: com.mycompany.camel-spring-cxfrs
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.example.beans;uses:="javax.ws.rs,org.apache.camel";v
+ ersion="0.0.1"
+Import-Package: javax.ws.rs;version="[2.0,3)",org.apache.camel;version="
+ [2.12,3)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.3.0.201609221906
